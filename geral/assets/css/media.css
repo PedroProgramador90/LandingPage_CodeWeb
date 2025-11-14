@@ -101,10 +101,13 @@
       
     }
 
-     .form {
+       .form {
         width:95%;
         height:100%;
         float:none;
+        top:0px;
+        right:0;
+        padding:17px;
         display:inline-block;
         margin-top: 30px;
       
@@ -168,4 +171,5 @@
    
 
 }
+
 /*****/
