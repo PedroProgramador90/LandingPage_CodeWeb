@@ -88,6 +88,13 @@
 
 }
 
+@media screen and (max-width:815px) {
+    .text-single > h2 {
+      font-size: 18px;
+    }
+
+}
+
 @media screen and (max-width:776px){
      .container-list {
         width: 95%;
@@ -173,3 +180,4 @@
 }
 
 /*****/
+
