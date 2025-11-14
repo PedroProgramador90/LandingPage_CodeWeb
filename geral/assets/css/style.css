@@ -99,7 +99,7 @@ html,body {
 
 .form {
     width: 400px;
-    height:calc(100% + 45px);
+    height:calc(100% + 60px);
     float:right;
     position:relative;
     top: -15px;
@@ -298,5 +298,6 @@ footer.footer {
     font-size: 15px;
     font-family: sans-serif;
 }
+
 
 /******/
